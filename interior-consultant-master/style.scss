@@ -1,0 +1,83 @@
+* {
+    color: white;
+}
+
+
+section{
+    .main-picture {
+        background-image: url('/interior-consultant-master/photo1.png');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 40vw;
+    }
+    .pictures{
+        .avatar-picture{
+            position: relative;
+            top: -5%;
+            left: 30%;
+            box-shadow: 3px 5px rgba(63, 61, 61,0.3);
+            width: 40%;
+            font-family: monospace;
+            .avatar-profile{
+                .avatar-profile-picture{
+                    background-image: url('./interior-consultant-master/photo2.png');
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    height: 50px;
+                    width: 50px;
+                    border-radius: 50%;
+                    margin: 0;
+                }
+                .avatar-profile-info{
+                    .avatar-title{
+                        color: rgb(117, 116, 116);
+                    }
+                }
+            }
+        }
+    }
+}
+
+footer{
+    color: rgb(117, 116, 116);
+    height: 10vh;
+}
+
+
+@media screen and (max-width: 480px) {
+    header{
+        .navbar{
+            text-align: center;
+        }
+    }
+    section{
+        margin-top: 50px;
+        height: 90vh;
+        .pictures{
+            .avatar-picture{
+                width: 80%;
+                top: -15px;
+                left: 10%;
+                .avatar-profile{
+                    .avatar-profile-picture{
+                        height: 20px;
+                        width: 20px;
+                    }
+                    .avatar-profile-info{
+                        .avatar-name{
+                            font-size: 12px;
+                        }
+                        .avatar-title{
+                            font-size: 12px;
+                        }
+                    }
+                }
+                .avatar-signture{
+                    font-size: 10px;
+                }
+            }
+        }
+    }
+  }
