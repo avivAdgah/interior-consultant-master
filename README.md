@@ -26,4 +26,4 @@
 - [Bootstrap](https://getbootstrap.com/)
 
 ### Link
-- [html](https://ubiquitous-cranachan-26ddc6.netlify.app/#)
+- [Demo App](https://ubiquitous-cranachan-26ddc6.netlify.app/#)
