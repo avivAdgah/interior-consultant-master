@@ -20,6 +20,6 @@
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [html](https://reactjs.org/)
+- [html](http://html.net/)
 - [Sass](https://sass-lang.com/)
 - [Bootstrap](https://getbootstrap.com/)
