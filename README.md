@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Interior Consultant Master}</h1>
+<h1 align="center">Interior Consultant Master</h1>
 
 
 <!-- TABLE OF CONTENTS -->
